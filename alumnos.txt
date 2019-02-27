@@ -1,0 +1,50 @@
+No: 1
+NC: 15400981
+Nombre: Karen Lizeth Covarrubias
+Calificación: 100
+______
+No: 2
+NC: 15400947
+Nombre: Roberto Antonio Aguilar
+Calificación: 95
+______
+No: 3
+NC: 15401029
+Nombre: Edwin Everardo Ponce
+Calificación: 88
+______
+No: 4
+NC: 15402634
+Nombre: Jesus Alejandro Reynoso
+Calificación: 80
+______
+No: 5
+NC: 15400990
+Nombre: Luis Alejandro Peña
+Calificación: 99
+______
+No: 6
+NC: 15400988
+Nombre: Miriam Janeth Barajas Lopez
+Calificación: 95
+______
+No: 7
+NC: 15402134
+Nombre: Jesus Alejandro Reynoso
+Calificación: 80
+______
+No: 8
+NC: 15400924
+Nombre: Marco Antonio Garay Perez
+Calificación: 90
+______
+No: 9
+NC: 15400284
+Nombre: Juan Manuel Del Hoyo
+Calificación: 100
+______
+No: 10
+NC: 1540889
+Nombre: Edgar Efren Pozas
+Calificación: 79
+______
